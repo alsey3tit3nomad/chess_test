@@ -1,0 +1,3 @@
+*.pth
+*.csv
+!model_2.pth
